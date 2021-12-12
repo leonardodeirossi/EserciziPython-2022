@@ -11,20 +11,20 @@ Autore: LEONARDO ESSAM DEI ROSSI (github.com/leonardodeirossi)
 
 # Definizione delle variabili
 prezzo = 0.0
-prezzo_finale = 0.0
+prezzoFinale = 0.0
 
 # Fase di input
 prezzo = float(input("Inserisci il prezzo: "))
 
 # Fase di elaborazione
 if(prezzo < 100):
-    prezzo_finale = prezzo - ((prezzo * 5) / 100)
+    prezzoFinale = prezzo - ((prezzo * 5) / 100)
 else:
     if (prezzo >= 100 and prezzo < 300):
-        prezzo_finale = prezzo - ((prezzo * 10) / 100)
+        prezzoFinale = prezzo - ((prezzo * 10) / 100)
     else:
         if (prezzo >= 300):
-            prezzo_finale = prezzo - ((prezzo * 20) / 100)
+            prezzoFinale = prezzo - ((prezzo * 20) / 100)
 
 # Fase di output
-print("Il prezzo con lo sconto applicato è: ", prezzo_finale)
+print("Il prezzo con lo sconto applicato è: ", prezzoFinale)
