@@ -1,5 +1,5 @@
 """
-Esercizio 5 - Confronto con operazioni
+Esercizio 6 - Maggiore tra tre numeri
 
 Descrizione: Dati in input tre numeri, trovare e restitutire il maggiore e il minore e calcolarne la differenza.
 Autore: LEONARDO ESSAM DEI ROSSI (github.com/leonardodeirossi)

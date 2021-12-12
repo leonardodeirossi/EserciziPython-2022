@@ -1,5 +1,5 @@
 """
-Esercizio 4 - Calcolare l'età media di 4 persone
+Esercizio 3 - Calcolare l'età media di 4 persone
 
 Descrizione: Data in input l'età di 4 persone calcolare e restituire la media.
 Autore: LEONARDO ESSAM DEI ROSSI (github.com/leonardodeirossi)
