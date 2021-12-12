@@ -1,7 +1,7 @@
 """
 Esercizio 9 - Prezzo finale con sconto e coupon
 
-Descrizione: Dato in input un prezzo, uno sconto e/o un coupon calcolare il prezzo finale:
+Descrizione: Dato in input un prezzo, uno sconto e/o un coupon calcolare il prezzo finale.
 Autore: LEONARDO ESSAM DEI ROSSI (github.com/leonardodeirossi)
 """
 
