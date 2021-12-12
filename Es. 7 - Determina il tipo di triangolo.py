@@ -10,6 +10,7 @@ lato1 = 0.0
 lato2 = 0.0
 lato3 = 0.0
 tipoTriangolo = ""
+
 # Fase di input
 lato1 = float(input("Inserisci il primo lato: "))
 lato2 = float(input("Inserisci il secondo lato: "))
